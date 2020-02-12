@@ -1,4 +1,4 @@
-# delphi_hunspell
+# Delphi-Hunspell
 Simple Hunspell wrapper for Delphi
 
 Source from [Code Central](https://cc.embarcadero.com/item/27428) by Chris Rolliston.
