@@ -16,4 +16,8 @@ Note that v1.1 fixes the issue described here: http://delphihaven.wordpress.com/
 * Open source component to implement spell checking using OpenOffice 3 dictionaries. [D2007,D2009,D2010,XE]  This is a spelling checker based on the NHunspell project
 
 ## +Latest Hunspell dictionary from SCOWL and Friends
-* en_US.dic from 2019.10.06
+* en_US.dic from 2019.10.06  (UTF8)
+
+## +Latest Hunspell DLL - Win32 release build 
+* libhunspell.dll from 2019.11.12 
+* Built with Visual Studio 2019 with quick notes on changes needed to build
